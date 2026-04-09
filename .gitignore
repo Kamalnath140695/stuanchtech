@@ -32,3 +32,9 @@ __pycache__/
 .env
 dist/
 build/
+
+.env
+*.env
+backend/*.env
+
+backend/test_microsoft_auth.py
