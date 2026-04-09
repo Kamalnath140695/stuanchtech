@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-04-04T10:28:01.801030Z",
+    "action": "DELETE_CONTAINER",
+    "actor": "system",
+    "target": "b!ve8XppNQFE6-FdfGCltSpMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-04T10:28:02.144120Z",
+    "action": "DELETE_CONTAINER",
+    "actor": "ui-user",
+    "target": "Finance",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-04-04T11:05:48.956586Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "system",
+    "target": "eff24ba0-7097-4fd0-b1d8-13546bf8e5db",
+    "details": "Role: SuperAdmin, graphUpdated: False",
+    "status": "success"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-04T11:05:49.014325Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Role: SuperAdmin",
+    "status": "success"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-04T11:08:49.538674Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "system",
+    "target": "eff24ba0-7097-4fd0-b1d8-13546bf8e5db",
+    "details": "Role: SuperAdmin, graphUpdated: True",
+    "status": "success"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-04-04T11:08:49.560695Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Role: SuperAdmin",
+    "status": "success"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-04-04T11:09:18.134786Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "system",
+    "target": "fef45f81-4d1a-4199-a39b-cbe2fcdc54ff",
+    "details": "Role: SuperAdmin, graphUpdated: True",
+    "status": "success"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-04-04T11:09:18.149477Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "ui-user",
+    "target": "kiruthika@0hnz6.onmicrosoft.com",
+    "details": "Role: SuperAdmin",
+    "status": "success"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-04-04T11:09:40.183349Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "system",
+    "target": "fef45f81-4d1a-4199-a39b-cbe2fcdc54ff",
+    "details": "Role: Admin, graphUpdated: True",
+    "status": "success"
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-04-04T11:09:40.210907Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "ui-user",
+    "target": "kiruthika@0hnz6.onmicrosoft.com",
+    "details": "Role: Admin",
+    "status": "success"
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-04-04T11:19:11.672297Z",
+    "action": "ADD_PERMISSION",
+    "actor": "system",
+    "target": "b!Ns6n8KdfVk-GYQjfxmpnBMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "user: Rupa@0hnz6.onmicrosoft.com app:  role: owner",
+    "status": "success"
+  },
+  {
+    "id": 12,
+    "timestamp": "2026-04-04T11:19:11.701058Z",
+    "action": "ADD_PERMISSION",
+    "actor": "ui-user",
+    "target": "Vessel Container",
+    "details": "user: Rupa@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 13,
+    "timestamp": "2026-04-05T11:12:53.176921Z",
+    "action": "ASSIGN_USER_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Features: Create Container Type, Manage Container, Upload Files, Create Users, Delete Files, Create Folder, Assign Roles, Create Apps \u2192 Permissions: FileStorageContainer.Selected, Sites.ReadWrite.All, Files.ReadWrite.All, User.ReadWrite.All, AppRoleAssignment.ReadWrite.All, Application.ReadWrite.All",
+    "status": "success"
+  },
+  {
+    "id": 14,
+    "timestamp": "2026-04-05T11:12:53.186412Z",
+    "action": "ASSIGN_USER_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Features: Create Container Type, Manage Container, Upload Files, Create Users, Delete Files, Create Folder, Assign Roles, Create Apps | Permissions: FileStorageContainer.Selected, Sites.ReadWrite.All, Files.ReadWrite.All, User.ReadWrite.All, AppRoleAssignment.ReadWrite.All, Application.ReadWrite.All",
+    "status": "success"
+  },
+  {
+    "id": 15,
+    "timestamp": "2026-04-05T11:13:08.652613Z",
+    "action": "REMOVE_USER_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "eff24ba0-7097-4fd0-b1d8-13546bf8e5db",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 16,
+    "timestamp": "2026-04-05T11:15:31.538594Z",
+    "action": "ASSIGN_USER_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Features: Create Container Type, Manage Container, Upload Files, Create Folder, Delete Files, Create Users, Assign Roles, Create Apps \u2192 Permissions: FileStorageContainer.Selected, Sites.ReadWrite.All, Files.ReadWrite.All, User.ReadWrite.All, AppRoleAssignment.ReadWrite.All, Application.ReadWrite.All",
+    "status": "success"
+  },
+  {
+    "id": 17,
+    "timestamp": "2026-04-05T11:15:31.550197Z",
+    "action": "ASSIGN_USER_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Features: Create Container Type, Manage Container, Upload Files, Create Folder, Delete Files, Create Users, Assign Roles, Create Apps | Permissions: FileStorageContainer.Selected, Sites.ReadWrite.All, Files.ReadWrite.All, User.ReadWrite.All, AppRoleAssignment.ReadWrite.All, Application.ReadWrite.All",
+    "status": "success"
+  },
+  {
+    "id": 18,
+    "timestamp": "2026-04-05T11:15:58.014387Z",
+    "action": "REMOVE_USER_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "eff24ba0-7097-4fd0-b1d8-13546bf8e5db",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 19,
+    "timestamp": "2026-04-05T13:43:11.058241Z",
+    "action": "ASSIGN_APP_PERMISSIONS",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "Features: Assign Roles, Create Apps",
+    "status": "success"
+  },
+  {
+    "id": 20,
+    "timestamp": "2026-04-05T13:59:43.801233Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "system",
+    "target": "eff24ba0-7097-4fd0-b1d8-13546bf8e5db",
+    "details": "Role: GlobalAdmin, graphUpdated: True",
+    "status": "success"
+  },
+  {
+    "id": 21,
+    "timestamp": "2026-04-05T13:59:43.849024Z",
+    "action": "ASSIGN_ROLE",
+    "actor": "ui-user",
+    "target": "kamalnath@0hnz6.onmicrosoft.com",
+    "details": "Role: GlobalAdmin",
+    "status": "success"
+  },
+  {
+    "id": 22,
+    "timestamp": "2026-04-05T14:02:11.868675Z",
+    "action": "CREATE_CONTAINER",
+    "actor": "system",
+    "target": "My Container",
+    "details": "TypeId: c2795fab-c6c4-41ef-8882-f31bdd0a7666",
+    "status": "success"
+  },
+  {
+    "id": 23,
+    "timestamp": "2026-04-05T14:02:11.905897Z",
+    "action": "CREATE_CONTAINER",
+    "actor": "ui-user",
+    "target": "My Container",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 24,
+    "timestamp": "2026-04-05T14:21:18.645523Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 25,
+    "timestamp": "2026-04-05T14:21:18.691641Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 26,
+    "timestamp": "2026-04-05T14:37:19.556644Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 27,
+    "timestamp": "2026-04-05T14:37:19.609728Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 28,
+    "timestamp": "2026-04-05T14:47:19.377032Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 29,
+    "timestamp": "2026-04-05T14:47:19.428568Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "FleetDocs _API",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 30,
+    "timestamp": "2026-04-05T14:55:17.500266Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 31,
+    "timestamp": "2026-04-05T14:55:17.566988Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 32,
+    "timestamp": "2026-04-05T15:10:45.386446Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 33,
+    "timestamp": "2026-04-05T15:10:45.449945Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 34,
+    "timestamp": "2026-04-05T15:21:48.872298Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 35,
+    "timestamp": "2026-04-05T15:21:48.904090Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 36,
+    "timestamp": "2026-04-05T15:26:22.265868Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 37,
+    "timestamp": "2026-04-05T15:26:22.292047Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 38,
+    "timestamp": "2026-04-05T15:30:38.668133Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!Ns6n8KdfVk-GYQjfxmpnBMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 39,
+    "timestamp": "2026-04-05T15:30:38.687070Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!Ns6n8KdfVk-GYQjfxmpnBMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 40,
+    "timestamp": "2026-04-05T16:22:00.437929Z",
+    "action": "CREATE_APP",
+    "actor": "system",
+    "target": "my",
+    "details": "appId: ccbfc813-5c87-48e0-bfc1-fbd360565124",
+    "status": "success"
+  },
+  {
+    "id": 41,
+    "timestamp": "2026-04-05T16:22:00.823079Z",
+    "action": "CREATE_APP",
+    "actor": "ui-user",
+    "target": "my",
+    "details": "appId: ccbfc813-5c87-48e0-bfc1-fbd360565124",
+    "status": "success"
+  },
+  {
+    "id": 42,
+    "timestamp": "2026-04-05T16:22:27.867622Z",
+    "action": "DELETE_APP",
+    "actor": "system",
+    "target": "effd3195-7b17-47d8-bde3-cbb912d31c47",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 43,
+    "timestamp": "2026-04-05T16:22:27.905491Z",
+    "action": "DELETE_APP",
+    "actor": "ui-user",
+    "target": "my",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 44,
+    "timestamp": "2026-04-06T00:34:02.773588Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "system",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "Target: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 45,
+    "timestamp": "2026-04-06T00:34:02.808060Z",
+    "action": "ASSIGN_APP_CONTAINER",
+    "actor": "ui-user",
+    "target": "MyEmbeddedApp",
+    "details": "containerId: b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE, UPN: kamalnath@0hnz6.onmicrosoft.com, role: owner",
+    "status": "success"
+  },
+  {
+    "id": 46,
+    "timestamp": "2026-04-07T09:24:58.742768Z",
+    "action": "REGISTER",
+    "actor": "kamalnath140695@gmail.com",
+    "target": "kamalnath140695@gmail.com",
+    "details": "Email registration with role: GlobalAdmin",
+    "status": "success"
+  },
+  {
+    "id": 47,
+    "timestamp": "2026-04-07T10:24:44.581814Z",
+    "action": "SIGNUP",
+    "actor": "kamalnath146@gmail.com",
+    "target": "kamalnath146@gmail.com",
+    "details": "Email signup - pending approval",
+    "status": "success"
+  },
+  {
+    "id": 48,
+    "timestamp": "2026-04-09T07:31:37.886467Z",
+    "action": "DELETE_CONTAINER",
+    "actor": "kamalnath@0hnz6.onmicrosoft.com",
+    "target": "b!PhK7vDcE1ka45UJQQR50UMaXsXMtk9tFubjQE28zhYmhiwOSJSPmSrpalYZftOaE",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 49,
+    "timestamp": "2026-04-09T07:31:37.934578Z",
+    "action": "DELETE_CONTAINER",
+    "actor": "ui-user",
+    "target": "My Container",
+    "details": "",
+    "status": "success"
+  },
+  {
+    "id": 50,
+    "timestamp": "2026-04-09T09:00:07.521702Z",
+    "action": "CREATE_CONTAINER",
+    "actor": "kamalnath@0hnz6.onmicrosoft.com",
+    "target": "TEST Container",
+    "details": "TypeId: c2795fab-c6c4-41ef-8882-f31bdd0a7666",
+    "status": "success"
+  },
+  {
+    "id": 51,
+    "timestamp": "2026-04-09T09:00:07.890988Z",
+    "action": "CREATE_CONTAINER",
+    "actor": "ui-user",
+    "target": "TEST Container",
+    "details": "",
+    "status": "success"
+  }
+]

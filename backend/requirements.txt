@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+msal
+mysql-connector-python
+bcrypt
+pydantic[email]
+PyJWT
+google-auth
+google-auth-oauthlib
+google-auth-httplib2

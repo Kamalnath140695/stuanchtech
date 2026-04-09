@@ -1,0 +1,130 @@
+.phorexy-sidebar {
+  width: 260px;
+  min-width: 260px;
+  background-color: var(--phorexy-sidebar);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--phorexy-border);
+  padding: 24px 0;
+  box-sizing: border-box;
+}
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--phorexy-text);
+  padding: 0 24px 32px 24px;
+}
+
+.nav-section {
+  padding: 12px 16px;
+}
+
+.section-title {
+  color: var(--phorexy-text-muted);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding: 0 16px 12px 16px;
+  margin-top: 16px;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  color: var(--phorexy-text-muted);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  font-size: 14px;
+  border-left: 2px solid transparent;
+}
+
+.nav-item:hover {
+  background-color: rgba(255, 255, 255, 0.03);
+  color: var(--phorexy-text);
+}
+
+.nav-item.active {
+  background-color: var(--phorexy-card);
+  color: var(--phorexy-text);
+  border-left: 2px solid var(--phorexy-accent);
+  box-shadow: inset 24px 0 24px -24px var(--phorexy-accent-glow);
+}
+
+.nav-item.active svg {
+  color: var(--phorexy-accent);
+}
+
+.sidebar-footer {
+  margin-top: auto;
+  padding: 24px;
+  border-top: 1px solid var(--phorexy-border);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: var(--phorexy-card-hover);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 16px;
+  border: 1px solid var(--phorexy-border);
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-name {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.user-id {
+  font-size: 12px;
+  color: var(--phorexy-text-muted);
+}
+
+.sign-out {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--phorexy-text-muted);
+  font-size: 13px;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.sign-out:hover {
+  color: #ef4444;
+}

@@ -1,0 +1,17 @@
+{
+  "eff24ba0-7097-4fd0-b1d8-13546bf8e5db": {
+    "role": "GlobalAdmin",
+    "assignedContainers": [],
+    "assignedApps": []
+  },
+  "kamalnath@0hnz6.onmicrosoft.com": {
+    "role": "GlobalAdmin",
+    "assignedContainers": [],
+    "assignedApps": []
+  },
+  "fef45f81-4d1a-4199-a39b-cbe2fcdc54ff": {
+    "role": "UserAdmin",
+    "assignedContainers": [],
+    "assignedApps": []
+  }
+}

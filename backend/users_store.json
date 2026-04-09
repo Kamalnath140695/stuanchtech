@@ -1,0 +1,20 @@
+{
+  "kamalnath140695@gmail.com": {
+    "id": 1,
+    "email": "kamalnath140695@gmail.com",
+    "name": "kamal",
+    "role": "GlobalAdmin",
+    "auth_provider": "email",
+    "created_date": "2026-04-07T09:24:58.733949"
+  },
+  "kamalnath146@gmail.com": {
+    "id": 2,
+    "name": "kamalnath",
+    "email": "kamalnath146@gmail.com",
+    "entra_user_id": "a7bd1320-4107-46ad-aecc-b453ffd9eb02",
+    "provider": "email",
+    "role": "NormalUser",
+    "status": "PENDING_APPROVAL",
+    "created_at": "2026-04-07T10:24:44.581814"
+  }
+}
